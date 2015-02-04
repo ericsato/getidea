@@ -1,6 +1,6 @@
 ## An Eric Sato Program
 ## Random Idea Generator
-## Gets a random idea from a pre-populated text file in the same directory
+## Gets a random suggestion from a pre-populated text file in the same directory
 ## If file does not exist, a blank file is created and you are asked to add items
 
 ## Version 1.0
